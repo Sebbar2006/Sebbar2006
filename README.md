@@ -1,15 +1,40 @@
-## Hi there 👋
+# 👋 Hej! Witaj na moim GitHubie
 
+Jestem studentem informatyki i ekonometrii (**Data Science**) z zamiłowaniem do analizy danych i poznawania, jak działa świat poprzez liczby i modele.
 
-**Sebbar2006/Sebbar2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧭 Co tutaj znajdziesz?
 
- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Na tym profilu wrzucam:
+
+- projekty z uczelni i z własnej ciekawości
+- eksperymenty z danymi i modelami
+- notatki, skrypty i inne rzeczy, które pomagają mi się uczyć
+
+Staram się dokumentować moją drogę w świecie Data Science — od podstaw do coraz bardziej zaawansowanych tematów.
+
+---
+
+## 🧠 Czym się interesuję?
+
+- szeroko pojęta analiza danych  
+- uczenie maszynowe i sztuczna inteligencja  
+- wizualizacja danych i opowiadanie historii przez liczby  
+- eksploracja i przetwarzanie danych z różnych źródeł  
+
+---
+
+## 🚧 W trakcie nauki
+
+Nie wszystko tu będzie idealne — to mój plac zabaw i miejsce nauki. Każdy commit to krok do przodu.
+
+---
+
+## 📬 Kontakt?
+
+Jeśli chcesz pogadać, wymienić się wiedzą albo zaprosić do współpracy – email: b.baranskisebastian@wp.pl
+
+---
+
+Dziękuję za wizytę!
